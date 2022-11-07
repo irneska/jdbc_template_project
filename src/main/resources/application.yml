@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/spotify__db
+    username: root
+    password: Ira_050504
+    driver-class-name: com.mysql.cj.jdbc.Driver
